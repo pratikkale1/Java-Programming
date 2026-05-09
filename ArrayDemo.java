@@ -4,6 +4,8 @@ class ArrayDemo
      public static void main(String Arg[])
      {
           System.out.println("Way of declare and initialisation of array");
+          System.out.println("marvellous batch");
+
           // Ways of creating Single dimentional array
 
           int Arr1[] = {10,20,30,40};
