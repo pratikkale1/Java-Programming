@@ -3,6 +3,7 @@ class ArrayDemo
 {
      public static void main(String Arg[])
      {
+          System.out.println("Way of declare and initialisation of array");
           // Ways of creating Single dimentional array
 
           int Arr1[] = {10,20,30,40};
@@ -15,7 +16,9 @@ class ArrayDemo
           Arr3[2] = 30;
           Arr3[3] = 40;
 
-          int Arr4[] = new int[]{10,20,30,40};         // Dyamic memory with initialisation list
+          int Arr4[] = new int[]{10,20,30,40};// Dyamic memory with initialisation list
+
+
 
      }
 }
