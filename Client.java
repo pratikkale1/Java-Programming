@@ -8,7 +8,7 @@ public class Client
         System.out.println("Client application is running...");
 
         Socket s = new Socket("localhost",2100);
-        System.out.println("Client is waiting for the server to accept the request");
+        System.out.println("Client is waiting for  server to accept the request..");
 
     }
 }
