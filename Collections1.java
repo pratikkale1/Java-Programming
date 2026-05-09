@@ -11,6 +11,7 @@ class Collections1
         lobj.add(51);
         lobj.add(101);
         lobj.add(111);
+        lobj.add(121);
 
         System.out.println("Elements of Linked list are : "+lobj);
 
